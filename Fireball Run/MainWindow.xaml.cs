@@ -29,8 +29,8 @@ namespace Fireball_Run
         private const int FIREBALL_START_POS = 810;
         private const int GAME_FIELD_HEIGHT = 100;
 
-        private const int FIREBALL_WIDTH = 60;
-        private const int FIREBALL_HEIGHT = 50;
+        private const int FIREBALL_WIDTH = 70;
+        private const int FIREBALL_HEIGHT = 60;
 
         private const int CHARACTER_POS = 50;
 
@@ -59,9 +59,9 @@ namespace Fireball_Run
         {
             Body = new Image
             {
-                Source = new BitmapImage(new Uri("Images/Max.png", UriKind.Relative)),
-                Width = 70,
-                Height = 90
+                Source = new BitmapImage(new Uri("Images/Max2.png", UriKind.Relative)),
+                Width = 80,
+                Height = 100
             },
             Position = new()
             {
@@ -157,7 +157,7 @@ namespace Fireball_Run
             {
                 Body = new Image
                 {
-                    Source = new BitmapImage(new Uri("Images/Knijechka.png", UriKind.Relative)),
+                    Source = new BitmapImage(new Uri("Images/Dinya.png", UriKind.Relative)),
                     Width = FIREBALL_WIDTH,
                     Height = FIREBALL_HEIGHT
                 },

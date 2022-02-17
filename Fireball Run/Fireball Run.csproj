@@ -16,6 +16,7 @@
     <None Remove="Images\Anton.png" />
     <None Remove="Images\BlueMage.png" />
     <None Remove="Images\DeadBlueMage.png" />
+    <None Remove="Images\Dinya.png" />
     <None Remove="Images\ExitButtonDefault.png" />
     <None Remove="Images\ExitButtonMouseOver.png" />
     <None Remove="Images\fireball-pixel-art.png" />
@@ -25,6 +26,7 @@
     <None Remove="Images\IconPPK.png" />
     <None Remove="Images\Knijechka.png" />
     <None Remove="Images\Max.png" />
+    <None Remove="Images\Max2.png" />
     <None Remove="Images\ppk.png" />
     <None Remove="Images\StartButtonDefault.png" />
     <None Remove="Images\StartButtonMouseOver.png" />
@@ -52,6 +54,9 @@
     <Resource Include="Images\DeadBlueMage.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="Images\Dinya.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Images\ExitButtonDefault.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
@@ -76,7 +81,7 @@
     <Resource Include="Images\Knijechka.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="Images\Max.png">
+    <Resource Include="Images\Max2.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Images\ppk.png">
