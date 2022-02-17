@@ -9,7 +9,7 @@
         ResizeMode="NoResize" WindowStyle="None"
         KeyUp="Window_KeyUp" Loaded="Window_Loaded"
         MouseDown="Window_MouseDown"
-        Icon="Images/IconPPK.png">
+        Icon="Images/Lavrov.png">
     
     <Window.Background>
         <ImageBrush ImageSource="Images/ppk.png"/>

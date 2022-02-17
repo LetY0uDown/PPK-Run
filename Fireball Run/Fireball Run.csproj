@@ -25,6 +25,7 @@
     <None Remove="Images\GameTitle.png" />
     <None Remove="Images\IconPPK.png" />
     <None Remove="Images\Knijechka.png" />
+    <None Remove="Images\Lavrov.png" />
     <None Remove="Images\Max.png" />
     <None Remove="Images\Max2.png" />
     <None Remove="Images\ppk.png" />
@@ -79,6 +80,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Images\Knijechka.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Lavrov.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Images\Max2.png">
